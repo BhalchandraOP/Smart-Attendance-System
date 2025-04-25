@@ -2,7 +2,7 @@
 
 A real-time web-based attendance system using RFID, Node.js, MongoDB, Redis, and WebSocket. Tracks students’ entry and exit dynamically with live updates and a user-friendly interface.
 
-![Smart Attendance System Banner](https://github.com/BhalchandraOp/Smart-Attendance_System/blob/main/screenshots/banner.png)
+![Smart Attendance System Banner](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/banner.png?raw=true)
 
 ---
 
@@ -22,7 +22,7 @@ A real-time web-based attendance system using RFID, Node.js, MongoDB, Redis, and
 
 | Live Dashboard | All Students Table |
 |----------------|--------------------|
-| ![Live](screenshots/Live_Info.png) | ![Table](screenshots/all-student.png) |
+| ![Live](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/Live_Info.png?raw=true) | ![Table](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/all_student.jpg?raw=true) |
 
 ---
 
