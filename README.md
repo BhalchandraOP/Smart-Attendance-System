@@ -67,4 +67,8 @@ Smart-Attendance_System/
 - Redis (optional but recommended)
 - HTML/CSS/JS (Vanilla frontend)
   
+## 🙋‍♂️ Author
+Bhalchandra (@BhalchandraOp)
+For suggestions or queries, feel free to raise an issue or contact me!
 
+## 📸 Screenshots
