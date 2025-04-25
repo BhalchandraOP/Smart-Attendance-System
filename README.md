@@ -45,8 +45,8 @@ npm install
 nodemon server.js
 ```
 5. **Open Frontend:**
-```Just open index.html in your browser. Make sure it's allowed to connect to localhost:3000.
-```
+-Just open index.html in your browser. Make sure it's allowed to connect to localhost:3000.
+
 6. **📁 Folder Structure:**
 ```pgsql
 Smart-Attendance_System/
