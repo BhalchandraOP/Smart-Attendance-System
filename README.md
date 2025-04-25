@@ -68,7 +68,10 @@ Smart-Attendance_System/
 - HTML/CSS/JS (Vanilla frontend)
   
 ## 🙋‍♂️ Author
-Bhalchandra (@BhalchandraOp)
+[Bhalchandra](https://github.com/BhalchandraOP)
 For suggestions or queries, feel free to raise an issue or contact me!
 
 ## 📸 Screenshots
+![HardWare Model](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/model.jpg?raw=true)
+![WEb Interface](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/Screenshot_26-4-2025_1733_.jpeg?raw=true
+)
