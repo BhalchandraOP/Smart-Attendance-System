@@ -49,15 +49,25 @@ nodemon server.js
 
 6. **📁 Folder Structure:**
 ```pgsql
-Smart-Attendance_System/
-├── models/
-│   └── Student.js
-├── public/
-│   └── index.html
-│   └── style.css
-├── server.js
-├── package.json
-└── README.md
+📂 Smart-Attendance-System/
+├── 📁 assets/
+│ └── (screenshots and images for README)
+│
+├── 📁 backend/
+│ ├──  .vscode
+│ ├── 📁 models/
+│ │ └── Student.js
+│ ├── 📁 node_modules
+│ ├── package.json
+│ ├── package-lock.json
+│ └── server.js
+│
+├── 📁 frontend/
+│ ├── index.html
+│ └── style.css
+│
+├── README.md
+└── SOP.docx (documentation file)
 ```
 ## 🚀 Technologies Used
 - Node.js
