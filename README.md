@@ -2,7 +2,7 @@
 
 A real-time web-based attendance system using RFID, Node.js, MongoDB, Redis, and WebSocket. Tracks students’ entry and exit dynamically with live updates and a user-friendly interface.
 
-![Smart Attendance System Banner](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/banner.png?raw=true)
+![Smart Attendance System Banner](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/assets/banner.png)
 
 ---
 
@@ -22,7 +22,7 @@ A real-time web-based attendance system using RFID, Node.js, MongoDB, Redis, and
 
 | Live Dashboard | All Students Table |
 |----------------|--------------------|
-| ![Live](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/Live_Info.png?raw=true) | ![Table](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/all_student.jpg?raw=true) |
+| ![Live](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/assets/Live_Info.png) | ![Table](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/assets/all_student.jpg) |
 
 ---
 
@@ -72,6 +72,7 @@ Smart-Attendance_System/
 For suggestions or queries, feel free to raise an issue or contact me!
 
 ## 📸 Screenshots
-![HardWare Model](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/model.jpg?raw=true)
-![WEb Interface](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/Screenshot_26-4-2025_1733_.jpeg?raw=true
+![HardWare Model](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/assets/model.jpg
+)
+![WEb Interface](https://github.com/BhalchandraOP/Smart-Attendance-System/blob/main/assets/Screenshot_26-4-2025_1733_.jpeg
 )
